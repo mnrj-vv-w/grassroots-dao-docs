@@ -28,6 +28,9 @@ grassroots-dao-docs/
 │   └── ryu_to_kyokan_QRコード.png
 ├── 02_編集可能ファイル/
 ├── 03_素材/
+├── assets/business-cards
+│   ├── 名刺表.pages
+│   └── 名刺裏.pages
 └── LICENSE
 ```
 
