@@ -44,8 +44,6 @@ grassroots-dao-docs/
 
 - X: [@ryu_to_kyokan](https://x.com/ryu_to_kyokan)
 
-- 
-
 ## 📝 ライセンス
 
 このリポジトリ内の文章・画像・ドキュメントは、Creative Commons CC-BY-SA 4.0 ライセンスに基づき公開されています。
