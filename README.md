@@ -1,3 +1,6 @@
+
+<img width="1536" alt="スクリーンショット 2025-06-01 1 43 32" src="https://github.com/user-attachments/assets/411c3117-6cd1-4c5c-88c8-49202ebbb572" />
+
 # grassroots-dao-docs
 A grassroots DAO project exploring empathy, local connection, and decentralized collaboration.
 This repo contains documents and assets.
