@@ -19,7 +19,8 @@ grassroots-dao-docs/
 ├── README.md
 ├── 01_完成品/
 │   ├── チラシ_A4版（PDF）
-│   └── ロゴ・QRコード
+│   ├── ロゴ_洗練版（PNG）.png
+│   └── ryu_to_kyokan_QRコード.png
 ├── 02_編集可能ファイル/
 ├── 03_素材/
 └── LICENSE
