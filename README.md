@@ -1,4 +1,6 @@
 # grassroots-dao-docs
+A grassroots DAO project exploring empathy, local connection, and decentralized collaboration.
+
 # 草の根DAO｜世界観ドキュメント
 
 「共感・つながり・地域再生」をテーマに、小さな共鳴から未来をつくるプロジェクトです。  
