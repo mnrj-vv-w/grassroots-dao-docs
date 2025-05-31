@@ -1,5 +1,6 @@
 # grassroots-dao-docs
 A grassroots DAO project exploring empathy, local connection, and decentralized collaboration.
+This repo contains documents and assets.
 
 # 草の根DAO｜世界観ドキュメント
 
