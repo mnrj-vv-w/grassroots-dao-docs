@@ -1,3 +1,9 @@
+> 🛑 現在、草の根DAOのXアカウント（[@ryu_to_kyokan](https://x.com/ryu_to_kyokan)）が一時的にロックされており、ログインできない状態です。  
+> 最新情報やご連絡は以下の代替手段をご利用ください。
+> 
+> - 📘 [note](https://note.com/ryu_to_kusanone)  
+> - 📩 mnrj.vv.w@gmail.com
+
 <p align="center">
   <img src="banner.png" alt="草の根DAOバナー" width="100%" />
 </p>
