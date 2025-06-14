@@ -90,7 +90,7 @@ grassroots-dao-docs/
 
 - 📘 [note / 草の根DAO](https://note.com/ryu_to_kusanone)
 - 🧑‍🌾 [Instagram / ryu_to_hatake](https://www.instagram.com/ryu_to_hatake/)
-- 🐦 [X（現在一時停止中）](https://x.com/ryu_to_kyokan)
+- 🐦 [X](https://x.com/ryu_to_kyokan)
 - 📂 [GitHubリポジトリ](https://github.com/mnrj-vv-w/grassroots-dao-docs)
 
 ---
