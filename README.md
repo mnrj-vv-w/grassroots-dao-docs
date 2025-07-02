@@ -1,5 +1,7 @@
 ⚠️ Work in Progress
 
+This repository contains living documents and templates for a grassroots-style DAO project in Japan.
+
 # 🌱 草の根DAO / Grassroots DAO
 
 > 共感・地域・自然をつなぎ、小さな行動から未来を耕すDAO
